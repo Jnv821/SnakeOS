@@ -13,3 +13,4 @@ long_mode_start:
 
     ; Call kernel main.
     call kernel_main
+    hlt
